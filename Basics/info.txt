@@ -1,0 +1,11 @@
+-- Sample COde (Print Hello World)
+    -- explain main 
+    -- explain static
+    -- explain command line 
+-- Comments in the code
+    -- Using // for comments
+    -- For multiline comments
+-- Data Types
+    -- byte short int long float double char boolean
+-- 
+
